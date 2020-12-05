@@ -1,4 +1,4 @@
-module cmd
+module github.com/jd-ly/cmd
 
 go 1.12
 
