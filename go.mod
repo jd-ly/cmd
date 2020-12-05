@@ -8,7 +8,7 @@ require (
 	github.com/agtorre/gocolorize v1.0.0
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/inconshreveable/log15 v0.0.0-20200109203555-b30bc20e4fd1 // indirect
-	github.com/jessevdk/go-flags v1.4.0
+	github.com/jd-ly/go-flags v1.4.1
 	github.com/mattn/go-colorable v0.1.6
 	github.com/myesui/uuid v1.0.0 // indirect
 	github.com/pkg/errors v0.9.1
