@@ -3,6 +3,7 @@ module github.com/jd-ly/cmd
 go 1.12
 
 require (
+	github.com/jd-ly/tools v0.5.7
 	github.com/BurntSushi/toml v0.3.1 // indirect
 	github.com/agtorre/gocolorize v1.0.0
 	github.com/fsnotify/fsnotify v1.4.7
@@ -21,7 +22,6 @@ require (
 	github.com/xeonx/timeago v1.0.0-rc4 // indirect
 	golang.org/x/net v0.0.0-20200501053045-e0ff5e5a1de5 // indirect
 	golang.org/x/sys v0.0.0-20200501145240-bc7a7d42d5c3 // indirect
-	github.com/jd-ly/tools v0.5.7
 	gopkg.in/fsnotify/fsnotify.v1 v1.4.7
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
