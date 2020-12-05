@@ -18,11 +18,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/revel/cmd/model"
-	_ "github.com/revel/cmd/parser"
-	"github.com/revel/cmd/utils"
-	"github.com/revel/cmd/parser2"
-	"github.com/revel/cmd/parser"
+	"github.com/jd-ly/cmd/model"
+	_ "github.com/jd-ly/cmd/parser"
+	"github.com/jd-ly/cmd/utils"
+	"github.com/jd-ly/cmd/parser2"
+	"github.com/jd-ly/cmd/parser"
 )
 
 var importErrorPattern = regexp.MustCompile("cannot find package \"([^\"]+)\"")

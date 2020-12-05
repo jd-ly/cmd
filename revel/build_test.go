@@ -5,9 +5,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/revel/cmd/model"
-	main "github.com/revel/cmd/revel"
-	"github.com/revel/cmd/utils"
+	"github.com/jd-ly/cmd/model"
+	main "github.com/jd-ly/cmd/revel"
+	"github.com/jd-ly/cmd/utils"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,14 +1,14 @@
 package parser2
 
 import (
-	"github.com/revel/cmd/utils"
+	"github.com/jd-ly/cmd/utils"
 	"golang.org/x/tools/go/packages"
-	"github.com/revel/cmd/model"
+	"github.com/jd-ly/cmd/model"
 	"go/ast"
 	"go/token"
 	"strings"
 	"path/filepath"
-	"github.com/revel/cmd/logger"
+	"github.com/jd-ly/cmd/logger"
 )
 
 type (

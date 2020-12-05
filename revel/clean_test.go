@@ -1,9 +1,9 @@
 package main_test
 
 import (
-	"github.com/revel/cmd/model"
-	"github.com/revel/cmd/revel"
-	"github.com/revel/cmd/utils"
+	"github.com/jd-ly/cmd/model"
+	"github.com/jd-ly/cmd/revel"
+	"github.com/jd-ly/cmd/utils"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"path/filepath"

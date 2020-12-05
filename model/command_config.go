@@ -2,8 +2,8 @@ package model
 
 import (
 	"fmt"
-	"github.com/revel/cmd"
-	"github.com/revel/cmd/utils"
+	"github.com/jd-ly/cmd"
+	"github.com/jd-ly/cmd/utils"
 	"go/ast"
 	"go/build"
 	"go/parser"
@@ -13,7 +13,7 @@ import (
 	"os/exec"
 	"path/filepath"
 	"strings"
-	"github.com/revel/cmd/model/command"
+	"github.com/jd-ly/cmd/model/command"
 )
 
 // The constants

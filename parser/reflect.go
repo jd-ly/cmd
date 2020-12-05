@@ -16,8 +16,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/revel/cmd/model"
-	"github.com/revel/cmd/utils"
+	"github.com/jd-ly/cmd/model"
+	"github.com/jd-ly/cmd/utils"
 )
 
 // A container used to support the reflection package

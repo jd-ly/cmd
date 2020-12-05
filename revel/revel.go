@@ -17,15 +17,15 @@ import (
 	"github.com/jessevdk/go-flags"
 
 	"github.com/agtorre/gocolorize"
-	"github.com/revel/cmd/logger"
-	"github.com/revel/cmd/model"
-	"github.com/revel/cmd/utils"
+	"github.com/jd-ly/cmd/logger"
+	"github.com/jd-ly/cmd/model"
+	"github.com/jd-ly/cmd/utils"
 	"bytes"
 )
 
 const (
 	// RevelCmdImportPath Revel framework cmd tool import path
-	RevelCmdImportPath = "github.com/revel/cmd"
+	RevelCmdImportPath = "github.com/jd-ly/cmd"
 
 	// RevelCmdImportPath Revel framework cmd tool import path
 	RevelSkeletonsImportPath = "github.com/revel/skeletons"

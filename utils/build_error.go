@@ -2,7 +2,7 @@ package utils
 
 import (
 	"fmt"
-	"github.com/revel/cmd/logger"
+	"github.com/jd-ly/cmd/logger"
 	"strconv"
 	"regexp"
 )

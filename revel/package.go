@@ -10,8 +10,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/revel/cmd/model"
-	"github.com/revel/cmd/utils"
+	"github.com/jd-ly/cmd/model"
+	"github.com/jd-ly/cmd/utils"
 )
 
 var cmdPackage = &Command{

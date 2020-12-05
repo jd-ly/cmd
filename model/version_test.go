@@ -3,7 +3,7 @@ package model_test
 import (
 	"github.com/stretchr/testify/assert"
 	"testing"
-	"github.com/revel/cmd/model"
+	"github.com/jd-ly/cmd/model"
 )
 
 var versionTests = [][]string{

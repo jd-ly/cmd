@@ -2,7 +2,7 @@
 package model
 
 import (
-	"github.com/revel/cmd/utils"
+	"github.com/jd-ly/cmd/utils"
 	"github.com/revel/config"
 	"errors"
 	"fmt"
